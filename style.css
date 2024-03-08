@@ -1,3 +1,17 @@
 header {background-color: #383D58;
 color: white;
 }
+.cabecalho-imgem{
+
+    width: 20%;
+}
+.cabecalho{
+background-color: #383D58;
+color: white;
+display: flex;
+justify-content: space-around;
+paddin:24px e
+}
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 16px;
