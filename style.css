@@ -10,7 +10,7 @@ background-color: #383D58;
 color: white;
 display: flex;
 justify-content: space-around;
-paddin:24px e
+padding:24px e
 }
 .cabecalho-lista-item{
 display: inline-block;
@@ -20,4 +20,4 @@ font-size: 24px 0;
 font-size: 24px;
 }
 
-*
+ *
